@@ -1,0 +1,14 @@
+{
+  "name": "ma-invite-resources",
+  "version": "1.0.0",
+  "description": "This is a js script to generate SQL to insert new user records into the Monsoon Analytics user database",
+  "main": "node_script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uid": "0.0.2"
+  }
+}
