@@ -1,0 +1,6 @@
+TXN Id	License Key	Company Name	Name	Email	Phone Number	Planned Invite Date	Invite URL	Invite Sent?
+267	5GX2C-3P4D2-G9PDH-4629J-U6K8U	Scott J Hartman	Scott Hartman	well-read@hartman-books.com	856-220-5985
+126	68U9D-F5QAZ-5S944-53GXC-5W2SY	Booksavers of MD	Kim Martin	booksavers@myactv.net	301-665-1525
+1534	5E428-48MJI-4A297-FL869-YP9EL	Index Books	Nigel Blackhall	nigel@bookslearnearly.co.uk	011 44 1302 890796
+1949	6538F-55MK6-XBUKM-UH4PU-73UBI	Textbook Fare	Liz Collins	ecoll35063@aol.com
+2204	392F9-94Y79-TQFR3-PNO77-5YPWN	Boater's Outlet	Gary Freedman	gary@boatersoutlet.com				

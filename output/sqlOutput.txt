@@ -1,0 +1,5 @@
+INSERT INTO oauth_users (seller_name, txn_id, invite_token) VALUES ('Scott J Hartman', 267, 'kep8507b8jr');
+INSERT INTO oauth_users (seller_name, txn_id, invite_token) VALUES ('Booksavers of MD', 126, 'skvl8psj95r');
+INSERT INTO oauth_users (seller_name, txn_id, invite_token) VALUES ('Index Books', 1534, '8l3q59wmj7e');
+INSERT INTO oauth_users (seller_name, txn_id, invite_token) VALUES ('Textbook Fare', 1949, 'a5tnh9yto16');
+INSERT INTO oauth_users (seller_name, txn_id, invite_token) VALUES ('Boater''s Outlet', 2204, '4hqve1xmh69');

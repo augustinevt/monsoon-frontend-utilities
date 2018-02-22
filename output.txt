@@ -1,2 +1,0 @@
-INSERT INTO oauth_users (seller_name, txn_id, invite_token) VALUES ('bubbie', 1734, 4qr3m4jaawg);
-INSERT INTO oauth_users (seller_name, txn_id, invite_token) VALUES ('gretchen', 1234, rrb3ebxhrf);

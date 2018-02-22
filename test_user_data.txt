@@ -1,3 +1,0 @@
-seller_name	txn_id
-bubbie	1734
-gretchen	1234
